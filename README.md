@@ -12,5 +12,5 @@ A modern, interactive, and visually appealing portfolio template for web develop
 
 ## 🚀 Demo
 
-[Live Preview](**#**https://mdadeel.github.io/hello/) 
+[Live Preview]([https://mdadeel.github.io/hello/) 
 ## 📂 Project Structure
